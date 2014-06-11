@@ -24,7 +24,7 @@ The tidy data set will be written out to a comma seperated text file called "tid
 ##Requirements
 
 It requires:
-- all the input data files to be placed in the same working directory as the script is in, no subfolders. These are teh files X_test.txt X_train.txt features.txt activity_labels.txt, y_train.txt, y_test.txt, subejct_train.txt, subject_test.txt.
+- all the input data files to be placed in the same working directory as the script is in, no subfolders. These are the files X_test.txt X_train.txt features.txt activity_labels.txt, y_train.txt, y_test.txt, subejct_train.txt, subject_test.txt.
 - the above folder to be your current working directory in R.
 - access to the R libraries "reshape2" and "plyr"
 
